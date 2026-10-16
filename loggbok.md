@@ -5,7 +5,7 @@
 
 ---
 
-## Sammanfattning fram till nu (Sprint 1–2)
+## Sammanfattning fram till nu (Sprint 1–3)
 
 ### Vad jag arbetade med
 - Produkter ska kunna filteras efter category
@@ -32,7 +32,7 @@
 
 ---
 
-## Sprint 3
+## Sprint 4
 
 ### Vad jag arbetade med
 - **Backlog items:** 

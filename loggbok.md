@@ -47,3 +47,19 @@
 - Det har fungerat ok denna vecka. Det har varit lite bristande kommunikation från en person i vår grupp. 
 Det har medfört att vissa delar stått stilla och att resterande i gruppen känt sig osäkra på statusen gällande dessa delar. 
 Bortsett från det har det fungerat bra.
+
+---
+
+## Sprint 4
+
+### Vad jag arbetade med
+- **Backlog items**
+	- Cookie för jwttoken i gateway
+	- Hjälpt till att felsöka varför emailservice inte fungerade.  
+Detta genom att skapa ett anrop via postman eftersom våra databaser i product- och orderservice är nere pga. gräns för usage är nådd.
+
+- **Status**
+	- 
+
+### Samarbete och agilt arbete
+- 
